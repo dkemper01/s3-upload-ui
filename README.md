@@ -1,3 +1,7 @@
+The accompanying repo for the AWS surface required for this demo can be found here:
+
+[https://github.com/dkemper01/s3-upload-lambdas](https://github.com/dkemper01/s3-upload-lambdas)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

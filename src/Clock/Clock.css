@@ -1,0 +1,12 @@
+.Clock-container {
+  margin: 0 auto;
+  margin-top: 1em;
+}
+
+.Date {
+  font-size: 1em;
+}
+
+.Time {
+  font-size: 3em;
+}
